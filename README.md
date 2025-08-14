@@ -43,8 +43,3 @@
 
 ---
 
-## 🐍 GitHub Snake Animation
-![GitHub Snake Animation](https://github.com/MohamedElnimr/MohamedElnimr/blob/output/snake.svg)
-
----
-⭐️ From [Mohamed Elnimr](https://github.com/MohamedElnimr)
